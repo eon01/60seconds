@@ -9,14 +9,19 @@ A simple bash script to analyze Linux performance inspired from [Netflix Linux P
 Install dependencies, download the script and run it: 
 ``` bash
 wget https://raw.githubusercontent.com/eon01/60seconds/master/60seconds.sh 
+
 chmod +x 60seconds.sh
+
 ./60seconds.sh -b -e
 ```
 Parameters:
+
 	-b|--batch: Run the script in batch mode
 	-e|--explain: Run the script without explanation
 
 Want to run it directly from github repository:
 ``` bash 
+
 wget https://raw.githubusercontent.com/eon01/60seconds/master/60seconds.sh -v -O 60seconds.sh; ./60seconds; rm -rf 60seconds.sh
+
 ```
