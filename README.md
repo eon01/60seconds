@@ -22,6 +22,6 @@ Parameters:
 Run it in one command:
 ``` bash 
 
-wget https://raw.githubusercontent.com/eon01/60seconds/master/60seconds.sh -v -O 60seconds.sh; chmod +x ./60seconds; ./60seconds; rm -rf 60seconds.sh
+wget https://raw.githubusercontent.com/eon01/60seconds/master/60seconds.sh -v -O 60seconds.sh; chmod +x ./60seconds.sh; ./60seconds; rm -rf 60seconds.sh
 
 ```
