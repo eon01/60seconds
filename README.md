@@ -3,7 +3,7 @@ A simple bash script to analyze Linux performance inspired from [Netflix Linux P
 
 # Screenshot
 
-![60seconds](http://imgbox.com/URQaM9tb)
+![](http://i.imgbox.com/URQaM9tb.jpg)
 
 
 # Dependencies
