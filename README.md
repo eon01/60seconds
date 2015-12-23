@@ -1,6 +1,11 @@
 # 60seconds
 A simple bash script to analyze Linux performance inspired from [Netflix Linux Performance Analysis in 60,000 Milliseconds blog post](http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html)
 
+# Screenshot
+
+![60seconds](http://imgbox.com/URQaM9tb)
+
+
 # Dependencies
 - systat
 
